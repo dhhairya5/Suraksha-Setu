@@ -32,7 +32,7 @@ Suraksha Setu is a comprehensive disaster management and communication gateway w
 
 1. Clone the repository:
    ```
-   git clone https://github.com/Deepankar2003/Suraksha-Setu.git
+   git clone https://github.com/dhhairya5/Suraksha-Setu.git
    ```
 
 2. Navigate to project directory:
@@ -116,7 +116,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📞 Contact
 
 For queries or suggestions, please reach out to:
-- [Deepankar](https://github.com/Deepankar2003)
+- [Dhhairya](https://github.com/dhhairya5)
 
 ---
 
